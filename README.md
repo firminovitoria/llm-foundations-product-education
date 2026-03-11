@@ -47,10 +47,6 @@ The training was delivered to Product professionals working in an industrial tec
 
 The goal of the intervention was to evaluate whether short technical training on LLM fundamentals could improve participants' perceived understanding and decision-making capacity regarding AI-based products.
 
-## Citation
-
-If you use these materials or the dataset, please cite the associated paper.
-
 ## License
 
 This repository is shared for research and educational purposes.
